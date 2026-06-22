@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2026-06-22T20:00:01Z",
+    "ip_address": "192.168.1.50",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "request_path": "/login",
+    "status_code": 401,
+    "message": "Failed login attempt for user admin"
+  },
+  {
+    "timestamp": "2026-06-22T20:00:03Z",
+    "ip_address": "192.168.1.50",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "request_path": "/login",
+    "status_code": 401,
+    "message": "Failed login attempt for user admin"
+  },
+  {
+    "timestamp": "2026-06-22T20:00:05Z",
+    "ip_address": "192.168.1.50",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "request_path": "/login",
+    "status_code": 401,
+    "message": "Failed login attempt for user admin"
+  },
+  {
+    "timestamp": "2026-06-22T20:00:07Z",
+    "ip_address": "192.168.1.50",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "request_path": "/login",
+    "status_code": 401,
+    "message": "Failed login attempt for user admin"
+  },
+  {
+    "timestamp": "2026-06-22T20:00:10Z",
+    "ip_address": "192.168.1.50",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "request_path": "/products?id=1%20OR%201%3D1",
+    "status_code": 500,
+    "message": "Database query error: syntax error near OR"
+  },
+  {
+    "timestamp": "2026-06-22T20:01:15Z",
+    "ip_address": "192.168.1.99",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)",
+    "request_path": "/dashboard",
+    "status_code": 200,
+    "message": "Successful login for user iasmina"
+  }
+]
